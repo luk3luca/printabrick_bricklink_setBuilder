@@ -1,0 +1,8 @@
+All stl files in this archive were converted by LDView from official LDraw Library http://www.ldraw.org/
+
+Files are licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/2.0/
+
+Attribution:
+
+u9318 - "Door Arched 5 x 7.5 for Frame 7 x 8 Fabuland" by Chris Dee [cwdee]
