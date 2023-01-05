@@ -1,3 +1,9 @@
+#! python3
+# setScraper.py - creates a folder with all the pieces for the LEGO set
+# and a .txt with the FOUND pieces and NOT FOUND ones
+# .stl files comes from https://drive.google.com/file/d/1EomKBUewsYv2o4jPaNNcmDHu-pUiQ8a9/view
+# code scrapes the https://bricklink.com Set Inventory table and builds a folder with all the .stl necessary
+
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
